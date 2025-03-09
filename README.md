@@ -23,14 +23,13 @@ Witaj na moim profilu GitHub! Pasjonuję się technologią i programowaniem, a m
 - Wszystkiego, co związane z technologią!
 
 ## 📫 Jak się ze mną skontaktować...
-- 📧 E-mail: [twoj-email@example.com](mailto:nikugamespl@gmail.com)
+- 📧 E-mail: [nikugamespl@gmail.com](mailto:nikugamespl@gmail.com)
 - 💬 Discord: @arriderxonIG
 - 🐦 Instagram: [@arriderxonIG]([https://twitter.com/arriderxonIG](https://www.instagram.com/arriderx/))
 
 ## 😄 Zaimek:
 - On/jego/helikopter bojowy
 
-## ⚡ Ciekawostka:
 ## ⚡ Ciekawostka:
 - Uwielbiam majsterkować z elektroniką i jednym z moich ulubionych projektów było stworzenie własnego systemu oświetlenia LED sterowanego aplikacją mobilną! 💡📱
 
