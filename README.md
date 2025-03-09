@@ -24,7 +24,6 @@ Witaj na moim profilu GitHub! Pasjonuję się technologią i programowaniem, a m
 
 ## 📫 Jak się ze mną skontaktować...
 - 📧 E-mail: [nikugamespl@gmail.com](mailto:nikugamespl@gmail.com)
-- 💬 Discord: @arriderxonIG
 - 🐦 Instagram: [@arriderxonIG]([https://twitter.com/arriderxonIG](https://www.instagram.com/arriderx/))
 
 ## 😄 Zaimek:
